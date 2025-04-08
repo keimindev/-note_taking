@@ -4,7 +4,7 @@ The `Call Stack` is a data structure used by the JavaScript engine to keep track
 
 - Javascript executes synchronously, one operation at a time, using the call stack. 
 
-```javscript
+```javascript
 function greet() {
   console.log("Hello");
 }
