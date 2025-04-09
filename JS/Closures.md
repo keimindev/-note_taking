@@ -28,10 +28,10 @@ This is possible because functions are first-class citizens in JavaScript.
 
 
 ### Execution Context + Lexical Scope
-➤ Execution Context
+➤ Execution Context <br/>
 The environment where JavaScript code is evaluated. Each function call creates a new execution context with its own variables.
 
-➤ Lexical Scope
+➤ Lexical Scope <br/>
 The scope is determined at the time of writing code, not at runtime.
 A function has access to variables defined in the scope where it was declared, not necessarily where it's called.
 
